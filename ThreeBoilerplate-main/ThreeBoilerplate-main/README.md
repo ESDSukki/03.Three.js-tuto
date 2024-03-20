@@ -1,3 +1,5 @@
+Este es el boiler basik del tutuorial pero ns si es el bueno lol
+
 # ThreeBoilerplate
 
 This is the boilerplate that I'm using for my Three.js tutorials.
