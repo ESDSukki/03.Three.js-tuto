@@ -1,4 +1,4 @@
-Este es el boiler basik del tutuorial pero ns si es el bueno lol
+**Este boiler pertenece al men del tutorial just sayin
 
 # ThreeBoilerplate
 
