@@ -1,5 +1,3 @@
-**Este boiler pertenece al men del tutorial just sayin
-
 # ThreeBoilerplate
 
 This is the boilerplate that I'm using for my Three.js tutorials.
